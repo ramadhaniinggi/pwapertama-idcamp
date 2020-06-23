@@ -1,0 +1,16 @@
+{
+  "name": "Delivery Service Correio",
+  "short_name": "Correio",
+  "description": "Aplikasi PWA Correio",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fbc02d",
+  "theme_color": "#fbc02d",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
