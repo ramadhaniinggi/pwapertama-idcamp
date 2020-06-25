@@ -37,7 +37,7 @@ const navkonten = function () {
 
   //   halaman konten
   let page = window.location.hash.substr(1);
-  if (page == "") page = "home";
+  if (page === "") page = "home";
   loadPage(page);
 
   function loadPage(page) {
